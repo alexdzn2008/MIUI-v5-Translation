@@ -29,11 +29,11 @@
     <string name="act_find_city_title">Добавить город</string>
     <string name="act_find_city_null_data">Нет результатов</string>
     <string name="act_find_city_hint">Поиск (На английском)</string>
-    <string name="act_set_city_find_side_on">Открыть определение местоположения</string>
-    <string name="act_set_city_find_side">Обнаружение местоположения…</string>
+    <string name="act_set_city_find_side_on">Включить автопоиск</string>
+    <string name="act_set_city_find_side">Поиск города…</string>
     <string name="local_city">Местные города</string>
-    <string name="act_set_city_re_find_side">Определение местоположения…</string>
-    <string name="act_set_city_find_side_error">Определить местоположение не удалось</string>
+    <string name="act_set_city_re_find_side">Ищем город…</string>
+    <string name="act_set_city_find_side_error">Найти не удалось</string>
     <string name="act_city_find_gps_error">Выберите город вручную</string>
     <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления.</string>
     <string name="act_weather_cycle_update">Обновление…</string>
